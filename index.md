@@ -1,8 +1,8 @@
-# What is Moiwa Linux?
+## What's this?
 
 Moiwa Linux is a distribution for desktop based on [Alpine Linux](https://alpinelinux.org/).
 
-# Why Moiwa Linux?
+## Why?
 
 * Powerful resources from Alpine Linux
 * Simple and minimal system(based on musl libc and busybox)
